@@ -25,16 +25,16 @@ This repository is specially designed for:
 
 ## 📂 Patterns Included
 
-✔ Square patterns
-✔ Right & left triangles
-✔ Pyramids
-✔ Inverted pyramids
-✔ Diamond patterns
-✔ Hollow patterns
-✔ Number patterns
-✔ Pascal’s triangle
-✔ Character patterns
-✔ Advanced symmetric designs
+✔ Square patterns<br>
+✔ Right & left triangles<br>
+✔ Pyramids<br>
+✔ Inverted pyramids<br>
+✔ Diamond patterns<br>
+✔ Hollow patterns<br>
+✔ Number patterns<br>
+✔ Pascal’s triangle<br>
+✔ Character patterns<br>
+✔ Advanced symmetric designs<br>
 
 Total Patterns: **35**
 
